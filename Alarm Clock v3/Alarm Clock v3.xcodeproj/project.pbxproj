@@ -21,6 +21,7 @@
 		4F49997617D695B100A4CC7C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F49995717D695B000A4CC7C /* Foundation.framework */; };
 		4F49997E17D695B100A4CC7C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4F49997C17D695B100A4CC7C /* InfoPlist.strings */; };
 		4F49998117D695B100A4CC7C /* Alarm_Clock_v3Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F49998017D695B100A4CC7C /* Alarm_Clock_v3Tests.m */; };
+		4F49998B17D6998900A4CC7C /* Main View Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F49998A17D6998900A4CC7C /* Main View Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		4F49997D17D695B100A4CC7C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4F49997F17D695B100A4CC7C /* Alarm_Clock_v3Tests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Alarm_Clock_v3Tests.h; sourceTree = "<group>"; };
 		4F49998017D695B100A4CC7C /* Alarm_Clock_v3Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Alarm_Clock_v3Tests.m; sourceTree = "<group>"; };
+		4F49998A17D6998900A4CC7C /* Main View Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Main View Storyboard.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				4F49996417D695B100A4CC7C /* AppDelegate.h */,
 				4F49996517D695B100A4CC7C /* AppDelegate.m */,
 				4F49995C17D695B000A4CC7C /* Supporting Files */,
+				4F49998A17D6998900A4CC7C /* Main View Storyboard.storyboard */,
 			);
 			path = "Alarm Clock v3";
 			sourceTree = "<group>";
@@ -227,6 +230,7 @@
 				4F49996817D695B100A4CC7C /* Default.png in Resources */,
 				4F49996A17D695B100A4CC7C /* Default@2x.png in Resources */,
 				4F49996C17D695B100A4CC7C /* Default-568h@2x.png in Resources */,
+				4F49998B17D6998900A4CC7C /* Main View Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
