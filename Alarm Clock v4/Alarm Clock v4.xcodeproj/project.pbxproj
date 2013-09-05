@@ -112,8 +112,6 @@
 		4F41E56B17D92E6900AC5223 /* Alarm Clock v4 */ = {
 			isa = PBXGroup;
 			children = (
-				4F41E57417D92E6900AC5223 /* AlarmClockAppDelegate.h */,
-				4F41E57517D92E6900AC5223 /* AlarmClockAppDelegate.m */,
 				4F41E56C17D92E6900AC5223 /* Supporting Files */,
 			);
 			path = "Alarm Clock v4";
@@ -122,6 +120,8 @@
 		4F41E56C17D92E6900AC5223 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4F41E57417D92E6900AC5223 /* AlarmClockAppDelegate.h */,
+				4F41E57517D92E6900AC5223 /* AlarmClockAppDelegate.m */,
 				4F41E56D17D92E6900AC5223 /* Alarm Clock v4-Info.plist */,
 				4F41E56E17D92E6900AC5223 /* InfoPlist.strings */,
 				4F41E57117D92E6900AC5223 /* main.m */,
